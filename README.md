@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🍰 Visit my website:
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-The%20Bakehouse%20Studio-ff69b4?style=flat-square)](https://thebakehousestudio.s3.us-east-2.amazonaws.com/home.html)
+[![Visit My Website](https://img.shields.io/badge/Click%20Here-The%20Bakehouse%20Studio-ff69b4?style=flat-square)](https://thebakehousestudio.s3.us-east-2.amazonaws.com/home.html)
+
+<b>About The Bakehouse Studio</b>
+
+The idea of creating <i>The Bakehouse Studio</i> came from my decision to experiment and merge my academic interests with my passion for baking. Building this website from scratch allowed me to leverage my programming learnings to create a seamless online platform where customers can explore and browse my creations effortlessly.
+
+Beyond satisfying my academic curiosity, <i>The Bakehouse Studio</i> serves as a practical outlet where I can try new recipes and business strategies, all while funding my university expenses. Every purchase supports my dual pursuit of knowledge and craftsmanship, making each confection not just a treat, but a generous contribution towards my graduation.
+
 
 ## 🌐 Find me on Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rachel-su-1278b1265/) 
